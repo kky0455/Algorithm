@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="521ab5a4-f59f-4bf3-86c1-e237affc20af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.14/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.14/22.12.14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.14/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.14/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.15/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.15/.idea/22.12.15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.15/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.15/P135807.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.15/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.16/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.16/.idea/22.12.16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.16/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.16/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.16/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.16/P140107.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.16/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/.idea/22.12.17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/B1700.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/out/production/22.12.17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/out/production/22.12.17/.idea/22.12.17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/out/production/22.12.17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/out/production/22.12.17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/out/production/22.12.17/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.17/out/production/22.12.17/B1700.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.18/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.18/.idea/22.12.18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.18/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.18/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.18/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.18/P132265.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.18/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.19/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.19/.idea/22.12.19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.19/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.19/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.19/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.19/P131704.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.19/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.21/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.21/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.21/.idea/22.12.21.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.21/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.21/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.21/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.21/P41238.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.21/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.22/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.22/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.22/.idea/22.12.22.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.22/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.22/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.22/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.22/P40543.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.22/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.23/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.23/.idea/22.12.23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.23/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.23/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.23/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.23/P43165.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.23/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.24/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.24/.idea/22.12.24.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.24/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.24/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.24/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.24/P42626.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.24/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.25/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.25/.idea/22.12.25.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.25/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.25/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.25/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.25/P42747.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.25/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.26/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.26/.idea/22.12.26.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.26/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.26/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.26/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.26/P12909.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.26/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.27/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.27/.idea/22.12.27.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.27/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.27/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.27/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.27/P42583.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.27/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.28/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.28/.idea/22.12.28.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.28/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.28/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.28/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.28/P1844.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.29/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.29/.idea/22.12.29.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.29/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.29/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.29/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.29/P12913.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.29/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.31/B14502.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../22.12.31/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.02/B10971.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.02/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.03/B1965.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.03/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.04/B1931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.04/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.05/B2098.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.05/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.06/B2343.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.06/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.08/B1946.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.08/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.09/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.09/.idea/23.01.09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.09/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.09/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.09/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.09/B10816.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.09/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.10/.idea/23.01.10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.10/B1654.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.10/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.11/.idea/23.01.11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.11/B2805.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.11/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.12/.idea/23.01.12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.12/B10973.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.15/.idea/23.01.15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.15/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.15/B1541.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.15/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.16/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.16/SofteerGBC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.16/SofteerSafecracker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.16/SofteerTransmission.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.16/SofteerVirus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/.idea/23.01.17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71148.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71149.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71150.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71151.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71152.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71153.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71154.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71155.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71156.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/Cos71157.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/out/production/23.01.17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/out/production/23.01.17/.idea/23.01.17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/out/production/23.01.17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/out/production/23.01.17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/out/production/23.01.17/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/out/production/23.01.17/Cos71148.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/out/production/23.01.17/Cos71149.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../23.01.17/out/production/23.01.17/Cos71150.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KVQJVAIB90PmpOMFybxEJyl0HY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="521ab5a4-f59f-4bf3-86c1-e237affc20af" name="Changes" comment="" />
+      <created>1674057204213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674057204213</updated>
+    </task>
+    <servers />
+  </component>
+</project>
